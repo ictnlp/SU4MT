@@ -1,0 +1,3 @@
+[submodule "Words-Pair-Encoding"]
+	path = Words-Pair-Encoding
+	url = git@github.com:shrango/Words-Pair-Encoding.git
